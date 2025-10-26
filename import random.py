@@ -24,7 +24,7 @@ while playing:
         else:
             print("恭喜你，猜对了！")
             print(f"你一共猜了{n}次。")
-            n = 1
+            n = 12
             break
 
     while True:
